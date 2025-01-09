@@ -4,3 +4,5 @@ This is my first repository in Github.
 Author-Saroj Gautam
 <br>
 College - Texas State University
+<br>
+Major- Computer Science
